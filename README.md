@@ -2,6 +2,8 @@
 
 Running at: https://jpa03-lawrencewang30.dokku-03.cs.ucsb.edu
 
+Repository: https://github.com/ucsb-cs156-m23/jpa03-lawrencewang30.git
+
 # Configuring GitHub Pages for the documentation
 
 This repo contains Github Actions scripts that automatically create and publish documentation for the code:
