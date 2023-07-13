@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: https://jpa03-lawrencewang30.dokku-03.cs.ucsb.edu
+Running at: http://jpa03-lawrencewang30.dokku-03.cs.ucsb.edu
 
 Repository: https://github.com/ucsb-cs156-m23/jpa03-lawrencewang30.git
 
